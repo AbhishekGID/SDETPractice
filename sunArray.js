@@ -6,5 +6,5 @@ function sumArray(arr) {
     console.log(sum)
 
 }
-sumArray([1, 2, 4])
+sumArray([1, 2, 4, 7])
 
