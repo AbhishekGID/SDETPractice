@@ -1,5 +1,5 @@
 // // Remove Duplicates Using Set
-let arr = [1, 2, 2, 4, 4, 4, 4, 4, 3, 1];
+let arr = [1, 2, 2, 4, 4, 4, 3, 1];
 let unique = [...new Set(arr)];
 console.log(unique);
 
