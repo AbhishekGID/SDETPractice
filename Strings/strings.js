@@ -1,7 +1,7 @@
 // split
 // join
 // reverse
-// toLowerCase
+// toLowerCase and toUpperCase
 // includes
 // trim
 
@@ -25,5 +25,4 @@ console.log(trimWord);
 //Includes
 const searchInput = "Abhishek Tyagi";
 const isMatch = searchInput.includes("Abhishek");
-
 console.log(isMatch); // Output: true
