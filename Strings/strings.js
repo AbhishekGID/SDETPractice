@@ -6,11 +6,19 @@
 // trim
 
 let Firstname = "ABHISHEK";
+//Reverse
 let ReverseName = Firstname.split("").reverse().join("");
 console.log(Firstname);
 console.log(ReverseName);
+
+//toLowerCase
 let LowerCaseName = Firstname.toLowerCase();
 console.log(LowerCaseName);
+
+//toUpperrCase
+const LastName = "tyagi";
+let UpperCaseName = LastName.toUpperCase();
+console.log(UpperCaseName);
 
 for (let char of Firstname) {
   console.log(char);
