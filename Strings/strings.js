@@ -20,6 +20,7 @@ const LastName = "tyagi";
 let UpperCaseName = LastName.toUpperCase();
 console.log(UpperCaseName);
 
+// To print each Char of the string
 for (let char of Firstname) {
   console.log(char);
 }
