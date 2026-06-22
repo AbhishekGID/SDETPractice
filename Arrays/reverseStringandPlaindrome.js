@@ -4,3 +4,4 @@ function reverseString(str) {
   return str === newstr;
 }
 console.log(reverseString("Hello"));
+console.log(reverseString("Abhishek"));
