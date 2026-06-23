@@ -9,3 +9,4 @@ function isSorted(arr) {
 
 console.log(isSorted([1, 2, 3, 4, 5]));
 console.log(isSorted([1, 5, 3, 4]));
+console.log(isSorted([1, 21, 2, 4]));
